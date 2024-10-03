@@ -1,0 +1,9 @@
+table tr th{
+    min-width: 50px;
+}
+table tr th:nth-child(3), table tr th:nth-child(4){
+    min-width: 80px;
+}
+table tbody tr, table thead tr{
+    text-align: center;
+}
